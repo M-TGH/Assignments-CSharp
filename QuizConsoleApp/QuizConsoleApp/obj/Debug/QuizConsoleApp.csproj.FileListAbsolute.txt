@@ -1,0 +1,19 @@
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe.config
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.pdb
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.exe
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.pdb
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe.manifest
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.application
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.exe.manifest
+D:\School\Jaar 2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.application
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe.config
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.exe
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.pdb
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe.manifest
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.application
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.exe
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\bin\Debug\QuizConsoleApp.pdb
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.csprojResolveAssemblyReference.cache
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.exe.manifest
+D:\School\Jaar_2\C#\QuizConsoleApp\QuizConsoleApp\obj\Debug\QuizConsoleApp.application

@@ -1,0 +1,9 @@
+D:\School\Jaar 2\C#\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\School\Jaar 2\C#\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\School\Jaar 2\C#\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.Form1.resources
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\School\Jaar 2\C#\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

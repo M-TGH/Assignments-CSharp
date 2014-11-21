@@ -1,0 +1,9 @@
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\bin\Debug\TGH Toets CSharp Blok1.exe.config
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\bin\Debug\TGH Toets CSharp Blok1.exe
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\bin\Debug\TGH Toets CSharp Blok1.pdb
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH Toets CSharp Blok1.csprojResolveAssemblyReference.cache
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH_Toets_CSharp_Blok1.Form1.resources
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH_Toets_CSharp_Blok1.Properties.Resources.resources
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH Toets CSharp Blok1.csproj.GenerateResource.Cache
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH Toets CSharp Blok1.exe
+D:\School\Jaar 2\C#\TGH Toets CSharp Blok1\TGH Toets CSharp Blok1\obj\Debug\TGH Toets CSharp Blok1.pdb
